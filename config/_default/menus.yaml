@@ -1,0 +1,9 @@
+leftnav:
+- identifier: external-6db1d735e4114f3ab94ae915e25f7dea
+  name: Online Publication
+  url: https://bravenewplanet.org/
+  weight: 10
+- identifier: external-1262203527-1650549636442
+  name: A Learner's Guide
+  url: https://www.ocw-openmatters.org/2020/11/02/brave-new-planet-a-learners-guide/
+  weight: 20
